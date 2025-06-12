@@ -3,7 +3,8 @@
      ================================================================================================
     1-AEDC Daily Maintenance Guide (aedc_daily_maint_guide.ksh)
     o	Purpose: Centralized utility for daily maintenance tasks in AEDC systems.
-    	Interactive menu for selecting and executing daily tasks (e.g.,node cleanup,disk checks,ECC issue resolution).
+    	Interactive menu for selecting and executing 
+         daily tasks (e.g.,node cleanup,disk checks,ECC issue resolution).
     	Automated historical data processing, report generation, and error logging.
     	Supports Sybase log checks, time synchronization, and database space monitoring.
     	Generates transformer load/voltage reports and handles NFS mounts.
@@ -14,7 +15,8 @@
     	Ensures compliance with backup protocols and system health checks.
     3-AEDC Monthly Report Guide (aedc_Monthly_Report_maint_guide.ksh)
     o	Purpose: Automate monthly reporting for critical infrastructure metrics.
-    	Generates Alexandria load graphs, substation transformer load reports, and cable failure summaries.
+    	Generates Alexandria load graphs, substation transformer load reports 
+         and cable failure summaries.
     	Tracks peak load profiles, consumption (MWh), and outage analytics.
     	Outputs formatted reports for stakeholders (e.g., engineering teams, SW).
     Skills Highlighted:
