@@ -4,15 +4,10 @@
 # PURPOSE : display and run all available daily utilities
 #           
 # GROUP   : IS
-# AUTHOR  : Alaa Nagy
 # DATE    :25 JANUARY 2000
 # Modification 20 Feb 2005  by Abeer Elasyed  
 #    to simplified the check sybase log procedure
 #------------------------------------------------------------------------------
-# @(#) $Header$
-# $Log$
-#------------------------------------------------------------------------------
-#
 # Define environment variables
 #
 . /aedc/etc/setsccenv.ksh
