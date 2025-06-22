@@ -7,8 +7,6 @@
 # GROUP   : SIS
 # AUTHOR  : Alaa Nagy
 # DATE    : April 4, 2000
-# REVISION
-# HISTORY :
 #------------------------------------------------------------------------------
 
 CAEROOT=/aedc
