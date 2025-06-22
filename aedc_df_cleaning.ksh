@@ -4,7 +4,6 @@
 # PURPOSE : Cleanning core and temp files
 #
 # GROUP   : IS of SCC
-# AUTHOR  : Donia Omar - Reem Magdi - Gehan Salah
 # DATE    : 14 April 1999
 #------------------------------------------------------------------------------
 # @(#) $Header$
